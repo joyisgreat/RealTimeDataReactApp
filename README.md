@@ -1,3 +1,4 @@
-# BreadcrumbsUserPurchaseConversion-LogisticRegression
+# UserPurchaseConversion-LogisticRegression
 
-Realtime Data App 
+User Purchase Conversion - Logistic Regression
+
